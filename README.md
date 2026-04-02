@@ -1,11 +1,18 @@
 1.introdução
 O projeto que pretendo desenvolver tem como tema: Estudo sobre os impactos positivos e negativos da inteligência artificial no desenvolvimento de sistemas de software. pois como sabemos a inteligência artificial (IA) tem se tornado cada vez mais um tecnologia presente dia a dia dos desenvolvedores de software com o objetivo de aumentar o desempenho e diminuir o tempo e custo de desenvolvimento de sistemas, . No entanto, ainda existem dúvidas quanto aos reais benefícios e riscos dessa tecnologia.
+
+
 2.Problema da pesquisa
  A ideia central e entender que as ferramentas de IA que usamos como o chatgpt, gemini, claude sem a supervisão humana realmente ajudam na produtividade do usuário ou se atrapalham  causando  falhas na estrutura do código e erros de segurança afetando o desempenho do sistema e até mesmo gerando uma dependência tecnológica
+
+
 3.metodologia
 Pretendo adicionar uma parte pratica desenvolvendo dois sistemas com funcionalidades equivalentes o primeiro sendo um sistema com códigos feitos manualmente e segundo sendo feito pelo auxilio  da 
  IA comparando  aspectos como qualidade, desempenho, quantidade de erros, falhas na estrutura, tempo de desenvolvimento além de identificar as vantagens e desvantagens que identifiquei ao longo da produção do código
 Pretendo usar as linguagens php, java script, sql, html e css para desenvolver os sistemas
+
+
+
 4.parte teorica
 A minha tese  teórica abordará os seguintes  conceitos relacionados à Inteligência Artificial, Engenharia de Software e desenvolvimento de sistemas, além do uso de IA como ferramenta de apoio à programação.
 Serão utilizados artigos científicos, livros e conteúdos acadêmicos para embasar a pesquisa.

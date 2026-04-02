@@ -9,6 +9,7 @@ O projeto que pretendo desenvolver tem como tema: Estudo sobre os impactos posit
 3.metodologia
 Pretendo adicionar uma parte pratica desenvolvendo dois sistemas com funcionalidades equivalentes o primeiro sendo um sistema com códigos feitos manualmente e segundo sendo feito pelo auxilio  da 
  IA comparando  aspectos como qualidade, desempenho, quantidade de erros, falhas na estrutura, tempo de desenvolvimento além de identificar as vantagens e desvantagens que identifiquei ao longo da produção do código
+
 Pretendo usar as linguagens php, java script, sql, html e css para desenvolver os sistemas
 
 
